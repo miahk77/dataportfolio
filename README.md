@@ -14,5 +14,11 @@ This repository contains data analysis and web dev projects stored as notebooks 
 - Cleaned the data with rationale-backed handling of null or missing values.
 - Joined the data sets together into a single DataFrame (this was named combinedactsat for reference).
 - Correlate participation rates in SAT tests with other data points of your choosing. 
+
+![](https://github.com/miahk77/dataportfolio/blob/main/images/actparticipation.png)
+![](https://github.com/miahk77/dataportfolio/blob/main/images/satparticipation.png)
+
 - Explore and compare your state's situation with others.
+
+![](https://github.com/miahk77/dataportfolio/blob/main/images/california.png)
 
