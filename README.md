@@ -15,10 +15,10 @@ This repository contains data analysis and web dev projects stored as notebooks 
 - Joined the data sets together into a single DataFrame (this was named combinedactsat for reference).
 - Correlated participation rates in SAT tests with ACT rates. Trends do not correlate - led to observation that states generally choose to adopt only one standardised test.
 
-![](https://github.com/miahk77/dataportfolio/blob/main/images/actparticipation.png)
-![](https://github.com/miahk77/dataportfolio/blob/main/images/satparticipation.png)
+![](/images/actparticipation.png)
+![](/images/satparticipation.png)
 
 - Explored and compared chosen state's situation with others. Data provided included percentage of students who score equal or higher than 21 in California (PctGE21). Here we can see that ACT participation is low in California in comparison to other states, and the percentage of students who score equal or higher than 21 is 40%, which is quite high. According to the Princeton Review, a score of 23 in the ACT is above the national average. Based on this observation and the performance of students who do take this test in California, we can reccomend that more counties in the state push for the ACT test.
 
-![](https://github.com/miahk77/dataportfolio/blob/main/images/california.png)
+![](/images/california.png)
 
