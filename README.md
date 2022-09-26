@@ -1,5 +1,7 @@
 # dataportfolio
 
+# Build settings
+theme: minima
 This repository contains data analysis and web dev projects stored as notebooks created with Jupyter Notebook.
 
 # [Project 1 : Study App ](https://github.com/miahk77/dataportfolio/blob/main/study_app.ipynb)
