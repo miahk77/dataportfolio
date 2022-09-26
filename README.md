@@ -11,8 +11,8 @@ This repository contains data analysis and web dev projects stored as notebooks 
 #[Project 2 : Analysing SAT and ACT Scores - Data Analytics using Pandas](https://github.com/miahk77/dataportfolio/blob/main/Assignment%202%20-%20College%20Board.ipynb)
 
 ##Deliverables:
-1.Cleaned the data with rationale-backed handling of null or missing values.
-2.Joined the data sets together into a single DataFrame (this was named combinedactsat for reference).
-3.Correlate participation rates in SAT tests with other data points of your choosing. 
-4.Explore and compare your state's situation with others.
+- Cleaned the data with rationale-backed handling of null or missing values.
+- Joined the data sets together into a single DataFrame (this was named combinedactsat for reference).
+- Correlate participation rates in SAT tests with other data points of your choosing. 
+- Explore and compare your state's situation with others.
 
